@@ -1,0 +1,470 @@
+{
+ "url": "http://127.0.0.1:40067/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tiene?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 99 habitaciones de 8 tipos: Doble con balcón, Twin con terraza, Doble o Twin económica, Twin y Triple con acceso por escaleras, Famili"
+    },
+    {
+     "q": "¿Tiene habitaciones para familias?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí: la Familiar tiene una cama de 135 cm y una individual de 105 cm; la Triple, tres camas de 105 cm, y la Cuádruple, cuatro camas de 105 cm"
+    },
+    {
+     "q": "¿Tiene habitación adaptada?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí, la habitación Adaptada es un espacio sin barreras, con opción a 2 o 3 camas de 105 cm y un baño amplio adaptado para personas con movili"
+    },
+    {
+     "q": "¿Dónde está?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Está en C/ Espacio, 48-50, 29006 Málaga, a unos 6 km del centro. La línea 20 de autobús para en la misma puerta del hotel."
+    },
+    {
+     "q": "¿Tiene parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí, tiene garaje privado cubierto, de pago y sujeto a disponibilidad."
+    },
+    {
+     "q": "¿A qué distancia está el aeropuerto?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "El hotel está a solo 10-15 minutos en coche del Aeropuerto de Málaga (AGP)."
+    },
+    {
+     "q": "¿Tiene restaurante?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sí, hay bar y un restaurante abierto al público los 365 días del año, con cocina tradicional andaluza y mediterránea. El restaurante está en"
+    },
+    {
+     "q": "¿Hay gimnasio?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sí, el gimnasio es moderno, tranquilo y de uso gratuito para los huéspedes, con máquinas de cardio, musculación y zona de pesas."
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Como norma general, la habitación se puede usar desde las 14:00 del día de llegada y debe quedar libre a las 12:00 del día de salida. La rec"
+    },
+    {
+     "q": "¿Tienen salón para eventos?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sí, el hotel tiene un salón versátil y equipado para eventos corporativos: conferencias, reuniones de empresa, presentaciones o cursos de fo"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar), llamar al +34 952 36 35 48 o escribir a info@hotelromerito.com. Este asistente no "
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Según sus condiciones de reserva, el titular es HOTEL EL ROMERITO S.L, CIF B92714005. Número de registro en Turismo: H/MA/01678."
+    },
+    {
+     "q": "¿Hay wifi?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Sí, hay wifi de alta velocidad en todo el hotel y las zonas comunes, y wifi gratis en las habitaciones."
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 952 36 35 48 · info@hotelromerito.com."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar), llamar al +34 952 36 35 48 o escribir a info@hotelromerito.com. Este asistente no "
+    },
+    {
+     "q": "¿Tienen spa?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 952 36 35 48 · info@hotelromerito.com."
+    },
+    {
+     "q": "¿Admiten mascotas?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 952 36 35 48 · info@hotelromerito.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tiene?",
+    "¿Tiene parking?",
+    "¿Cómo llego al centro?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "intro_k",
+    "send",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quines habitacions té?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Té 99 habitacions de 8 tipus: Doble amb balcó, Twin amb terrassa, Doble o Twin econòmica, Twin i Triple amb accés per escales, Familiar, Tri"
+    },
+    {
+     "q": "Té habitacions per a famílies?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí: la Familiar té un llit de 135 cm i un d'individual de 105 cm; la Triple, tres llits de 105 cm, i la Quàdruple, quatre llits de 105 cm."
+    },
+    {
+     "q": "Té habitació adaptada?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí, l'habitació Adaptada és un espai sense barreres, amb opció a 2 o 3 llits de 105 cm i un bany ampli adaptat per a persones amb mobilitat "
+    },
+    {
+     "q": "On és?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "És a C/ Espacio, 48-50, 29006 Màlaga, a uns 6 km del centre. La línia 20 d'autobús para a la mateixa porta de l'hotel."
+    },
+    {
+     "q": "Té pàrquing?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí, té garatge privat cobert, de pagament i subjecte a disponibilitat."
+    },
+    {
+     "q": "A quina distància és l'aeroport?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "L'hotel és a només 10-15 minuts en cotxe de l'Aeroport de Màlaga (AGP)."
+    },
+    {
+     "q": "Té restaurant?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sí, hi ha bar i un restaurant obert al públic els 365 dies de l'any, amb cuina tradicional andalusa i mediterrània. El restaurant és a l'hot"
+    },
+    {
+     "q": "Hi ha gimnàs?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sí, el gimnàs és modern, tranquil i d'ús gratuït per als hostes, amb màquines de cardio, musculació i zona de peses."
+    },
+    {
+     "q": "A quina hora és el check-in?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Com a norma general, l'habitació es pot fer servir des de les 14:00 del dia d'arribada i ha de quedar lliure a les 12:00 del dia de sortida."
+    },
+    {
+     "q": "Teniu saló per a esdeveniments?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sí, l'hotel té un saló versàtil i equipat per a esdeveniments corporatius: conferències, reunions d'empresa, presentacions o cursos de forma"
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Pots reservar al seu motor de reserves (botó Reservar), trucar al +34 952 36 35 48 o escriure a info@hotelromerito.com. Aquest assistent no "
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Segons les seves condicions de reserva, el titular és HOTEL EL ROMERITO S.L, CIF B92714005. Número de registre a Turisme: H/MA/01678."
+    },
+    {
+     "q": "Hi ha wifi?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Sí, hi ha wifi d'alta velocitat a tot l'hotel i les zones comunes, i wifi gratis a les habitacions."
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 952 36 35 48 · info@hotelromerito.com."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Pots reservar al seu motor de reserves (botó Reservar), trucar al +34 952 36 35 48 o escriure a info@hotelromerito.com. Aquest assistent no "
+    },
+    {
+     "q": "Teniu spa?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 952 36 35 48 · info@hotelromerito.com."
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 952 36 35 48 · info@hotelromerito.com."
+    }
+   ],
+   "chips": [
+    "Quines habitacions té?",
+    "Té pàrquing?",
+    "Com arribo al centre?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "What rooms does it have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 99 rooms of 8 types: Double with balcony, Twin with terrace, Economy Double or Twin, Twin and Triple reached by stairs, Family, Tripl"
+    },
+    {
+     "q": "Are there family rooms?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Yes: the Family room has a 135 cm bed and a 105 cm single; the Triple has three 105 cm beds and the Quadruple four 105 cm beds."
+    },
+    {
+     "q": "Is there an accessible room?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes, the Accessible room is barrier-free, with 2 or 3 beds of 105 cm and a large bathroom adapted for people with reduced mobility."
+    },
+    {
+     "q": "Where is it?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "It is at C/ Espacio, 48-50, 29006 Málaga, about 6 km from the centre. Bus line 20 stops right at the hotel door."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Yes, there is a private covered garage, paid and subject to availability."
+    },
+    {
+     "q": "How far is the airport?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "The hotel is only 10-15 minutes by car from Málaga Airport (AGP)."
+    },
+    {
+     "q": "Is there a restaurant?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Yes, there is a bar and a restaurant open to the public 365 days a year, with traditional Andalusian and Mediterranean cuisine. The restaura"
+    },
+    {
+     "q": "Is there a gym?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Yes, the gym is modern, quiet and free for guests, with cardio and strength machines and a weights area."
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "As a general rule, the room can be used from 14:00 on the arrival day and must be vacated by 12:00 on the departure day. Reception is open 2"
+    },
+    {
+     "q": "Do you have an events room?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Yes, the hotel has a versatile, fully equipped room for corporate events: conferences, business meetings, presentations or training courses."
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "You can book on its booking engine (Book button), call +34 952 36 35 48 or email info@hotelromerito.com. This assistant does not confirm ava"
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "According to its booking conditions, the owner is HOTEL EL ROMERITO S.L, CIF B92714005. Tourism registry number: H/MA/01678."
+    },
+    {
+     "q": "Is there wifi?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Yes, there is high-speed wifi throughout the hotel and common areas, and free wifi in the rooms."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 952 36 35 48 · info@hotelromerito.com."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "You can book on its booking engine (Book button), call +34 952 36 35 48 or email info@hotelromerito.com. This assistant does not confirm ava"
+    },
+    {
+     "q": "Do you have a spa?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 952 36 35 48 · info@hotelromerito.com."
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 952 36 35 48 · info@hotelromerito.com."
+    }
+   ],
+   "chips": [
+    "What rooms does it have?",
+    "Is there parking?",
+    "How do I get to the centre?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 99 chambres de 8 types : Double avec balcon, Twin avec terrasse, Double ou Twin économique, Twin et Triple accessibles par escalie"
+    },
+    {
+     "q": "Y a-t-il des chambres familiales ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Oui : la Familiale a un lit de 135 cm et un lit simple de 105 cm ; la Triple, trois lits de 105 cm, et la Quadruple, quatre lits de 105 cm."
+    },
+    {
+     "q": "Y a-t-il une chambre adaptée ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui, la chambre Adaptée est sans obstacles, avec 2 ou 3 lits de 105 cm et une grande salle de bain adaptée aux personnes à mobilité réduite."
+    },
+    {
+     "q": "Où est-il ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Il se trouve C/ Espacio, 48-50, 29006 Malaga, à environ 6 km du centre. La ligne de bus 20 s'arrête juste devant l'hôtel."
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Oui, il dispose d'un garage privé couvert, payant et selon disponibilité."
+    },
+    {
+     "q": "À quelle distance est l'aéroport ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "L'hôtel est à seulement 10-15 minutes en voiture de l'aéroport de Malaga (AGP)."
+    },
+    {
+     "q": "Y a-t-il un restaurant ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Oui, il y a un bar et un restaurant ouvert au public 365 jours par an, avec une cuisine traditionnelle andalouse et méditerranéenne. Le rest"
+    },
+    {
+     "q": "Y a-t-il une salle de sport ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Oui, la salle de sport est moderne, calme et gratuite pour les clients, avec machines de cardio, de musculation et zone de poids."
+    },
+    {
+     "q": "À quelle heure est l'arrivée ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "En règle générale, la chambre est disponible à partir de 14h00 le jour d'arrivée et doit être libérée à 12h00 le jour du départ. La réceptio"
+    },
+    {
+     "q": "Avez-vous une salle pour événements ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Oui, l'hôtel dispose d'une salle polyvalente et équipée pour les événements d'entreprise : conférences, réunions, présentations ou formation"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur son moteur de réservation (bouton Réserver), appeler le +34 952 36 35 48 ou écrire à info@hotelromerito.com. Cet as"
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Selon ses conditions de réservation, le titulaire est HOTEL EL ROMERITO S.L, CIF B92714005. Numéro d'enregistrement touristique : H/MA/01678"
+    },
+    {
+     "q": "Y a-t-il le wifi ?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Oui, il y a du wifi haut débit dans tout l'hôtel et les parties communes, et le wifi gratuit dans les chambres."
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 952 36 35 48 · info@hotelromerito.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur son moteur de réservation (bouton Réserver), appeler le +34 952 36 35 48 ou écrire à info@hotelromerito.com. Cet as"
+    },
+    {
+     "q": "Avez-vous un spa ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 952 36 35 48 · info@hotelromerito.com."
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 952 36 35 48 · info@hotelromerito.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres a-t-il ?",
+    "Y a-t-il un parking ?",
+    "Comment aller au centre ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
