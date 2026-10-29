@@ -1,0 +1,59 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hotelromerito.com/",
+ "read_at": "2026-10-29T14:54:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hotelromerito.com/",
+   "sha256": "f894d7efffe1dd3503288c3e2c3ca0e54120de280fe241473d9b82bc4c2da3ca",
+   "chars": 5964
+  },
+  {
+   "url": "https://www.hotelromerito.com/condiciones-reserva/",
+   "sha256": "e0465f192ba9b241231ea2f808a9394313d9a26c58891b90248634023bbef12c",
+   "chars": 15084
+  },
+  {
+   "url": "https://www.hotelromerito.com/contacto/",
+   "sha256": "664bd93c6d85c011797fe318628f78ee75de1727885b385bf5e66bedadbd91a7",
+   "chars": 2178
+  },
+  {
+   "url": "https://www.hotelromerito.com/habitaciones/",
+   "sha256": "f70f8f05bd08703ce23b6f05c404df6f260b697be391d5ff16cc0ecb53c6b641",
+   "chars": 5495
+  },
+  {
+   "url": "https://www.hotelromerito.com/servicios/",
+   "sha256": "9c21c3500c40051a19b4315cfae1405c3db68276cd0e768a023b7815c99374b2",
+   "chars": 3920
+  },
+  {
+   "url": "https://www.hotelromerito.com/situacion/",
+   "sha256": "ad5b90863c0c3154200f7fa0e67d92c0855172a95392791d3c638bbc67a92b98",
+   "chars": 8260
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hotelromerito.com",
+  "https://www.hotelromerito.com/aviso-legal/",
+  "https://www.hotelromerito.com/en/",
+  "https://www.hotelromerito.com/en/booking-conditions/",
+  "https://www.hotelromerito.com/en/contact/",
+  "https://www.hotelromerito.com/en/cookies-policy/",
+  "https://www.hotelromerito.com/en/legal-notice/",
+  "https://www.hotelromerito.com/en/location/",
+  "https://www.hotelromerito.com/en/offers/",
+  "https://www.hotelromerito.com/en/photos/",
+  "https://www.hotelromerito.com/en/privacy-policy/",
+  "https://www.hotelromerito.com/en/rooms/",
+  "https://www.hotelromerito.com/en/services/",
+  "https://www.hotelromerito.com/en/signup/",
+  "https://www.hotelromerito.com/fotos/",
+  "https://www.hotelromerito.com/ofertas/",
+  "https://www.hotelromerito.com/politica-cookies/",
+  "https://www.hotelromerito.com/politica-privacidad/",
+  "https://www.hotelromerito.com/signup/"
+ ]
+}
