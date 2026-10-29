@@ -1,0 +1,621 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-romerito-malaga",
+ "source_site": "https://www.hotelromerito.com/",
+ "source_read_at": "2026-10-29T14:54:00+01:00",
+ "note": "Respuestas solo con datos publicados en hotelromerito.com, sin precios. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "que habitaciones",
+     "tipos de habitacion"
+    ],
+    "ca": [
+     "quines habitacions",
+     "tipus d habitacio"
+    ],
+    "en": [
+     "what rooms",
+     "room types"
+    ],
+    "fr": [
+     "quelles chambres",
+     "types de chambre"
+    ]
+   },
+   "a": {
+    "es": "Tiene 99 habitaciones de 8 tipos: Doble con balcón, Twin con terraza, Doble o Twin económica, Twin y Triple con acceso por escaleras, Familiar, Triple, Cuádruple, Individual y Adaptada. Todas con aire acondicionado, calefacción y wifi gratis.",
+    "ca": "Té 99 habitacions de 8 tipus: Doble amb balcó, Twin amb terrassa, Doble o Twin econòmica, Twin i Triple amb accés per escales, Familiar, Triple, Quàdruple, Individual i Adaptada. Totes amb aire condicionat, calefacció i wifi gratis.",
+    "en": "It has 99 rooms of 8 types: Double with balcony, Twin with terrace, Economy Double or Twin, Twin and Triple reached by stairs, Family, Triple, Quadruple, Single and Accessible. All with air conditioning, heating and free wifi.",
+    "fr": "Il compte 99 chambres de 8 types : Double avec balcon, Twin avec terrasse, Double ou Twin économique, Twin et Triple accessibles par escalier, Familiale, Triple, Quadruple, Individuelle et Adaptée. Toutes avec climatisation, chauffage et wifi gratuit."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelromerito.com/habitaciones/",
+     "quote": "99 habitaciones de 8 tipos"
+    },
+    {
+     "url": "https://www.hotelromerito.com/",
+     "quote": "Doble con Balcón Habitación luminosa equipada con cama de matrimonio de 150 cm."
+    },
+    {
+     "url": "https://www.hotelromerito.com/",
+     "quote": "Twin con Terraza Estancia luminosa con dos camas individuales y acceso a una cómoda terraza privada."
+    },
+    {
+     "url": "https://www.hotelromerito.com/habitaciones/",
+     "quote": "Aire acondicionado Calefacción Internet wifi gratis"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "familias",
+   "keys": {
+    "es": [
+     "familia",
+     "triple",
+     "cuadruple",
+     "ninos",
+     "amigos"
+    ],
+    "ca": [
+     "famili",
+     "triple",
+     "quadruple",
+     "nens",
+     "amics"
+    ],
+    "en": [
+     "family",
+     "triple",
+     "quadruple",
+     "children",
+     "friends"
+    ],
+    "fr": [
+     "famil",
+     "triple",
+     "quadruple",
+     "enfants",
+     "amis"
+    ]
+   },
+   "a": {
+    "es": "Sí: la Familiar tiene una cama de 135 cm y una individual de 105 cm; la Triple, tres camas de 105 cm, y la Cuádruple, cuatro camas de 105 cm.",
+    "ca": "Sí: la Familiar té un llit de 135 cm i un d'individual de 105 cm; la Triple, tres llits de 105 cm, i la Quàdruple, quatre llits de 105 cm.",
+    "en": "Yes: the Family room has a 135 cm bed and a 105 cm single; the Triple has three 105 cm beds and the Quadruple four 105 cm beds.",
+    "fr": "Oui : la Familiale a un lit de 135 cm et un lit simple de 105 cm ; la Triple, trois lits de 105 cm, et la Quadruple, quatre lits de 105 cm."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelromerito.com/",
+     "quote": "Familiar Habitación luminosa e ideal para familias. Está equipada con una cama de matrimonio de 135 cm y una cama individual de 105 cm."
+    },
+    {
+     "url": "https://www.hotelromerito.com/",
+     "quote": "configurada con tres camas individuales de 105 cm"
+    },
+    {
+     "url": "https://www.hotelromerito.com/",
+     "quote": "equipada con cuatro camas de 105 cm"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "adaptada",
+   "keys": {
+    "es": [
+     "adaptad",
+     "movilidad",
+     "silla de ruedas",
+     "accesib"
+    ],
+    "ca": [
+     "adaptad",
+     "mobilitat",
+     "cadira de rodes",
+     "accessib"
+    ],
+    "en": [
+     "accessible",
+     "wheelchair",
+     "mobility",
+     "adapted"
+    ],
+    "fr": [
+     "adapte",
+     "fauteuil roulant",
+     "mobilite",
+     "accessib"
+    ]
+   },
+   "a": {
+    "es": "Sí, la habitación Adaptada es un espacio sin barreras, con opción a 2 o 3 camas de 105 cm y un baño amplio adaptado para personas con movilidad reducida.",
+    "ca": "Sí, l'habitació Adaptada és un espai sense barreres, amb opció a 2 o 3 llits de 105 cm i un bany ampli adaptat per a persones amb mobilitat reduïda.",
+    "en": "Yes, the Accessible room is barrier-free, with 2 or 3 beds of 105 cm and a large bathroom adapted for people with reduced mobility.",
+    "fr": "Oui, la chambre Adaptée est sans obstacles, avec 2 ou 3 lits de 105 cm et une grande salle de bain adaptée aux personnes à mobilité réduite."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelromerito.com/",
+     "quote": "Adaptada Espacio accesible y sin barreras. Dispone de opción a 2 o 3 camas de 105 cm e incluye un baño amplio totalmente adaptado y acondicionado para personas con movilidad reducida."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "ubicación",
+   "keys": {
+    "es": [
+     "donde esta",
+     "direccion",
+     "ubicacion",
+     "centro",
+     "autobus"
+    ],
+    "ca": [
+     " on es",
+     "adreca",
+     "ubicacio",
+     "centre",
+     "autobus"
+    ],
+    "en": [
+     "where is",
+     "address",
+     "location",
+     "centre",
+     "center",
+     "bus"
+    ],
+    "fr": [
+     "ou est",
+     "adresse",
+     "situe",
+     "centre",
+     "bus"
+    ]
+   },
+   "a": {
+    "es": "Está en C/ Espacio, 48-50, 29006 Málaga, a unos 6 km del centro. La línea 20 de autobús para en la misma puerta del hotel.",
+    "ca": "És a C/ Espacio, 48-50, 29006 Màlaga, a uns 6 km del centre. La línia 20 d'autobús para a la mateixa porta de l'hotel.",
+    "en": "It is at C/ Espacio, 48-50, 29006 Málaga, about 6 km from the centre. Bus line 20 stops right at the hotel door.",
+    "fr": "Il se trouve C/ Espacio, 48-50, 29006 Malaga, à environ 6 km du centre. La ligne de bus 20 s'arrête juste devant l'hôtel."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelromerito.com/situacion/",
+     "quote": "C/ Espacio, 48, 50, 29006 Málaga (España)"
+    },
+    {
+     "url": "https://www.hotelromerito.com/situacion/",
+     "quote": "del centro de la ciudad (a unos 6 km), le resultará comodísimo: contamos con una parada de la línea 20 de autobús en nuestra misma puerta."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparcamiento",
+     "aparcar",
+     "garaje",
+     "coche"
+    ],
+    "ca": [
+     "parking",
+     "parquing",
+     "aparcament",
+     "garatge",
+     "cotxe"
+    ],
+    "en": [
+     "parking",
+     "car park",
+     "garage",
+     " car"
+    ],
+    "fr": [
+     "parking",
+     "stationnement",
+     "garage",
+     "voiture"
+    ]
+   },
+   "a": {
+    "es": "Sí, tiene garaje privado cubierto, de pago y sujeto a disponibilidad.",
+    "ca": "Sí, té garatge privat cobert, de pagament i subjecte a disponibilitat.",
+    "en": "Yes, there is a private covered garage, paid and subject to availability.",
+    "fr": "Oui, il dispose d'un garage privé couvert, payant et selon disponibilité."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelromerito.com/servicios/",
+     "quote": "Garaje privado cubierto De pago y sujeto a disponibilidad"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "aeropuerto",
+   "keys": {
+    "es": [
+     "aeropuerto",
+     "avion",
+     "agp"
+    ],
+    "ca": [
+     "aeroport",
+     "avio",
+     "agp"
+    ],
+    "en": [
+     "airport",
+     "plane",
+     "flight",
+     "agp"
+    ],
+    "fr": [
+     "aeroport",
+     "avion",
+     "agp"
+    ]
+   },
+   "a": {
+    "es": "El hotel está a solo 10-15 minutos en coche del Aeropuerto de Málaga (AGP).",
+    "ca": "L'hotel és a només 10-15 minuts en cotxe de l'Aeroport de Màlaga (AGP).",
+    "en": "The hotel is only 10-15 minutes by car from Málaga Airport (AGP).",
+    "fr": "L'hôtel est à seulement 10-15 minutes en voiture de l'aéroport de Malaga (AGP)."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelromerito.com/situacion/",
+     "quote": "Nos encontramos a solo 10-15 minutos en coche del Aeropuerto (AGP)"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "restaurante",
+   "keys": {
+    "es": [
+     "restaurante",
+     "comer",
+     "cenar",
+     "bar"
+    ],
+    "ca": [
+     "restaurant",
+     "menjar",
+     "sopar",
+     " bar"
+    ],
+    "en": [
+     "restaurant",
+     " eat",
+     "dinner",
+     " bar"
+    ],
+    "fr": [
+     "restaurant",
+     "manger",
+     "diner",
+     " bar"
+    ]
+   },
+   "a": {
+    "es": "Sí, hay bar y un restaurante abierto al público los 365 días del año, con cocina tradicional andaluza y mediterránea. El restaurante está en el hotel pero lo gestiona una empresa independiente.",
+    "ca": "Sí, hi ha bar i un restaurant obert al públic els 365 dies de l'any, amb cuina tradicional andalusa i mediterrània. El restaurant és a l'hotel però el gestiona una empresa independent.",
+    "en": "Yes, there is a bar and a restaurant open to the public 365 days a year, with traditional Andalusian and Mediterranean cuisine. The restaurant is inside the hotel but run by an independent company.",
+    "fr": "Oui, il y a un bar et un restaurant ouvert au public 365 jours par an, avec une cuisine traditionnelle andalouse et méditerranéenne. Le restaurant est dans l'hôtel mais géré par une entreprise indépendante."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelromerito.com/servicios/",
+     "quote": "restaurante* abierto al público los 365 días del año"
+    },
+    {
+     "url": "https://www.hotelromerito.com/",
+     "quote": "Restaurante Romerito Independiente al hotel. Cocina tradicional andaluza y mediterránea"
+    },
+    {
+     "url": "https://www.hotelromerito.com/servicios/",
+     "quote": "El restaurante está dentro de nuestras instalaciones pero la gestión del mismo forma parte de una empresa independiente al Hotel."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "gimnasio",
+   "keys": {
+    "es": [
+     "gimnasio",
+     "gym",
+     "entrenar",
+     "deporte"
+    ],
+    "ca": [
+     "gimnas",
+     "gym",
+     "entrenar",
+     "esport"
+    ],
+    "en": [
+     "gym",
+     "fitness",
+     "workout",
+     "exercise"
+    ],
+    "fr": [
+     "salle de sport",
+     "gym",
+     "fitness",
+     "sport"
+    ]
+   },
+   "a": {
+    "es": "Sí, el gimnasio es moderno, tranquilo y de uso gratuito para los huéspedes, con máquinas de cardio, musculación y zona de pesas.",
+    "ca": "Sí, el gimnàs és modern, tranquil i d'ús gratuït per als hostes, amb màquines de cardio, musculació i zona de peses.",
+    "en": "Yes, the gym is modern, quiet and free for guests, with cardio and strength machines and a weights area.",
+    "fr": "Oui, la salle de sport est moderne, calme et gratuite pour les clients, avec machines de cardio, de musculation et zone de poids."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelromerito.com/servicios/",
+     "quote": "Nuestro gimnasio es un espacio moderno, tranquilo y de uso gratuito para nuestros huéspedes."
+    },
+    {
+     "url": "https://www.hotelromerito.com/servicios/",
+     "quote": "Está completamente equipado con máquinas de última generación para cardio, musculación y zona de pesas."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "horarios",
+   "keys": {
+    "es": [
+     "check",
+     "hora",
+     "entrada",
+     "salida",
+     "recepcion"
+    ],
+    "ca": [
+     "check",
+     "hora",
+     "entrada",
+     "sortida",
+     "recepcio"
+    ],
+    "en": [
+     "check",
+     "time",
+     "arrival",
+     "reception"
+    ],
+    "fr": [
+     "heure",
+     "arrivee",
+     "depart",
+     "reception"
+    ]
+   },
+   "a": {
+    "es": "Como norma general, la habitación se puede usar desde las 14:00 del día de llegada y debe quedar libre a las 12:00 del día de salida. La recepción atiende 24/7.",
+    "ca": "Com a norma general, l'habitació es pot fer servir des de les 14:00 del dia d'arribada i ha de quedar lliure a les 12:00 del dia de sortida. La recepció atén 24/7.",
+    "en": "As a general rule, the room can be used from 14:00 on the arrival day and must be vacated by 12:00 on the departure day. Reception is open 24/7.",
+    "fr": "En règle générale, la chambre est disponible à partir de 14h00 le jour d'arrivée et doit être libérée à 12h00 le jour du départ. La réception est ouverte 24h/24, 7j/7."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelromerito.com/condiciones-reserva/",
+     "quote": "las habitaciones podrán ser utilizadas a partir de las 14 horas del día de llegada y deberán quedar libres a las 12 horas del día de salida"
+    },
+    {
+     "url": "https://www.hotelromerito.com/contacto/",
+     "quote": "Recepción 24/7"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "eventos",
+   "keys": {
+    "es": [
+     "evento",
+     "salon",
+     "reunion",
+     "conferencia"
+    ],
+    "ca": [
+     "esdeveniment",
+     "salo",
+     "reunio",
+     "conferencia"
+    ],
+    "en": [
+     "event",
+     "meeting",
+     "conference"
+    ],
+    "fr": [
+     "evenement",
+     "reunion",
+     "conference",
+     "seminaire"
+    ]
+   },
+   "a": {
+    "es": "Sí, el hotel tiene un salón versátil y equipado para eventos corporativos: conferencias, reuniones de empresa, presentaciones o cursos de formación.",
+    "ca": "Sí, l'hotel té un saló versàtil i equipat per a esdeveniments corporatius: conferències, reunions d'empresa, presentacions o cursos de formació.",
+    "en": "Yes, the hotel has a versatile, fully equipped room for corporate events: conferences, business meetings, presentations or training courses.",
+    "fr": "Oui, l'hôtel dispose d'une salle polyvalente et équipée pour les événements d'entreprise : conférences, réunions, présentations ou formations."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelromerito.com/servicios/",
+     "quote": "El Hotel Romerito pone a su disposición un salón versátil y con todas las facilidades para organizar su evento en Málaga."
+    },
+    {
+     "url": "https://www.hotelromerito.com/servicios/",
+     "quote": "Eventos corporativos: conferencias, reuniones de empresa, charlas, presentaciones, cursos de formación"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirm"
+    ],
+    "ca": [
+     "reserv",
+     "disponib",
+     "lliure",
+     "confirma"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "free room",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirm"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar en su motor de reservas (botón Reservar), llamar al +34 952 36 35 48 o escribir a info@hotelromerito.com. Este asistente no confirma disponibilidad ni reservas.",
+    "ca": "Pots reservar al seu motor de reserves (botó Reservar), trucar al +34 952 36 35 48 o escriure a info@hotelromerito.com. Aquest assistent no confirma disponibilitat ni reserves.",
+    "en": "You can book on its booking engine (Book button), call +34 952 36 35 48 or email info@hotelromerito.com. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver sur son moteur de réservation (bouton Réserver), appeler le +34 952 36 35 48 ou écrire à info@hotelromerito.com. Cet assistant ne confirme ni disponibilités ni réservations."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelromerito.com/contacto/",
+     "quote": "+34 952 36 35 48"
+    },
+    {
+     "url": "https://www.hotelromerito.com/contacto/",
+     "quote": "info@hotelromerito.com"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K12",
+   "topic": "titular",
+   "keys": {
+    "es": [
+     "titular",
+     "propietario",
+     "razon social",
+     "cif"
+    ],
+    "ca": [
+     "titular",
+     "propietari",
+     "rao social",
+     "cif"
+    ],
+    "en": [
+     "owner",
+     "legal name",
+     "cif"
+    ],
+    "fr": [
+     "titulaire",
+     "proprietaire",
+     "raison sociale",
+     "cif"
+    ]
+   },
+   "a": {
+    "es": "Según sus condiciones de reserva, el titular es HOTEL EL ROMERITO S.L, CIF B92714005. Número de registro en Turismo: H/MA/01678.",
+    "ca": "Segons les seves condicions de reserva, el titular és HOTEL EL ROMERITO S.L, CIF B92714005. Número de registre a Turisme: H/MA/01678.",
+    "en": "According to its booking conditions, the owner is HOTEL EL ROMERITO S.L, CIF B92714005. Tourism registry number: H/MA/01678.",
+    "fr": "Selon ses conditions de réservation, le titulaire est HOTEL EL ROMERITO S.L, CIF B92714005. Numéro d'enregistrement touristique : H/MA/01678."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelromerito.com/condiciones-reserva/",
+     "quote": "titularidad de HOTEL EL ROMERITO S.L, en adelante la empresa, con B92714005"
+    },
+    {
+     "url": "https://www.hotelromerito.com/contacto/",
+     "quote": "Nº Registro en Turismo: H/MA/01678"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K13",
+   "topic": "wifi",
+   "keys": {
+    "es": [
+     "wifi",
+     "internet",
+     "wi-fi"
+    ],
+    "ca": [
+     "wifi",
+     "internet",
+     "wi-fi"
+    ],
+    "en": [
+     "wifi",
+     "internet",
+     "wi-fi"
+    ],
+    "fr": [
+     "wifi",
+     "internet",
+     "wi-fi"
+    ]
+   },
+   "a": {
+    "es": "Sí, hay wifi de alta velocidad en todo el hotel y las zonas comunes, y wifi gratis en las habitaciones.",
+    "ca": "Sí, hi ha wifi d'alta velocitat a tot l'hotel i les zones comunes, i wifi gratis a les habitacions.",
+    "en": "Yes, there is high-speed wifi throughout the hotel and common areas, and free wifi in the rooms.",
+    "fr": "Oui, il y a du wifi haut débit dans tout l'hôtel et les parties communes, et le wifi gratuit dans les chambres."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelromerito.com/servicios/",
+     "quote": "WiFi de alta velocidad Conectividad en todo el hotel y zonas comunes"
+    },
+    {
+     "url": "https://www.hotelromerito.com/habitaciones/",
+     "quote": "Internet wifi gratis"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
